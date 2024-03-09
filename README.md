@@ -3,4 +3,4 @@
 
 Estado de proyecto: en ejecucion
 
-```npm install react´´´
+```npm install react```
